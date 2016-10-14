@@ -1,0 +1,18 @@
+.top,
+.bottom {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.img-responsive {
+	border-radius: 50%;
+	width: 250px;
+	display: inline-block;
+}
+
+.fa {
+	font-size:40px;
+	}
