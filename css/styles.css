@@ -1,9 +1,26 @@
 h1{
   font-family: 'Open Sans', sans-serif;
+  font-size: 35 px;
 }
 
-p {
+p,
+h4 {
   font-family: 'Roboto', sans-serif;
+}
+p.text-center {
+  font-size: 18px;
+}
+
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	letter-spacing: 5px;
+	box-shadow: 0 0 2px 2px rgba(145,148,163,0.5);
 }
 
 .jumbotron {
