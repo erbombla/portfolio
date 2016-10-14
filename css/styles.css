@@ -1,3 +1,11 @@
+h1{
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
 .jumbotron {
   background: url(../img/portland.jpg) no-repeat center;
   height: 350px;
