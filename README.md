@@ -21,7 +21,7 @@ Include the following:
 * Commit and Push edits as needed
 
 ## Link
-(https://erbombla.github.io/portfolio/)[https://erbombla.github.io/portfolio/]
+https://erbombla.github.io/portfolio/
 
 ### License
 
