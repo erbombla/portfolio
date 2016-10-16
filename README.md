@@ -4,7 +4,7 @@
 
 #### By _Eric Bomblatus_
 
-## User stories:
+## User stories
 Include the following:
 * Your name.
 * An image of you or something that represents who you are.
